@@ -1,6 +1,6 @@
 import 'dart:math';
 
-/// Calculates the area of a circle with its radius
+// calculates the area of a circle with its radius
 double calculateCircleArea(double radius) {
   return pi * radius * radius;
 }
